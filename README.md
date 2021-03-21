@@ -1,4 +1,7 @@
 R Programming A-Z for Data Science
+
+
+
 DATA VISUALISATION :
 
 
@@ -18,3 +21,15 @@ DATA VISUALISATION :
 
 
 R ADVANCED ANAYTICS :
+
+
+![BOXPLOT(3FACTORS)](https://user-images.githubusercontent.com/63739986/110847089-7f92c400-82d2-11eb-8973-050c5af3cfe5.png)
+
+
+
+![FACETGRID(3VARIABLES)](https://user-images.githubusercontent.com/63739986/110847092-80c3f100-82d2-11eb-9733-e6d8cb1110b3.png)
+
+
+
+
+![Scatterplot(4 variable)](https://user-images.githubusercontent.com/63739986/110847096-815c8780-82d2-11eb-877d-ceb6bae52480.png)
