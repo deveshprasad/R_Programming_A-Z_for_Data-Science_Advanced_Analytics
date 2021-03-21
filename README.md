@@ -1,4 +1,4 @@
-# R-Programming-A-Z-for-Data-Science
+R Programming A-Z for Data Science
 DATA VISUALISATION :
 
 
@@ -16,3 +16,5 @@ DATA VISUALISATION :
 
 ![MOVIE HISTOGRAM](https://user-images.githubusercontent.com/63739986/110845821-1068a000-82d1-11eb-8e7e-5d5c56b34701.png)
 
+
+R ADVANCED ANAYTICS :
