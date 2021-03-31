@@ -1,6 +1,6 @@
-R Programming A-Z for Data Science
+R Programming A-Z™: R For Data Science With Real Exercises! : https://www.udemy.com/share/101Wsg/
 
-
+R Programming: Advanced Analytics In R For Data Science : https://www.udemy.com/share/101WIQ/
 
 DATA VISUALISATION :
 
