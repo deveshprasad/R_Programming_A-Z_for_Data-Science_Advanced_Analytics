@@ -6,18 +6,25 @@ Take Your R & R Studio Skills To The Next Level. Data Analytics, Data Science, S
 
 DATA VISUALISATION :
 
+ADVANCED BOXPLOTS
 
 ![MOVIE HW DOMESTIC GROSS BOXPLOT](https://user-images.githubusercontent.com/63739986/110845823-11013680-82d1-11eb-8b98-d0ed7af3beb4.png)
 
 
+Y-AXIS SCATTERPLOT
 
 ![FACET(GENRE~ )](https://user-images.githubusercontent.com/63739986/110845818-0e9edc80-82d1-11eb-850b-215373addb84.png)
 
 
 
+
+X-AXIS SCATTERPLOT
+
 ![FACETS( ~YEAR)](https://user-images.githubusercontent.com/63739986/110845820-1068a000-82d1-11eb-9e1a-2c40e0fab7c4.png)
 
 
+
+HISTOGRAM
 
 ![MOVIE HISTOGRAM](https://user-images.githubusercontent.com/63739986/110845821-1068a000-82d1-11eb-8e7e-5d5c56b34701.png)
 
@@ -25,7 +32,11 @@ DATA VISUALISATION :
 R ADVANCED ANAYTICS :
 
 
+BOXPLOT
+
 ![BOXPLOT(3FACTORS)](https://user-images.githubusercontent.com/63739986/110847089-7f92c400-82d2-11eb-8973-050c5af3cfe5.png)
+
+
 
 
 
@@ -33,5 +44,6 @@ R ADVANCED ANAYTICS :
 
 
 
+SCATTERPLOT
 
 ![Scatterplot(4 variable)](https://user-images.githubusercontent.com/63739986/110847096-815c8780-82d2-11eb-877d-ceb6bae52480.png)
