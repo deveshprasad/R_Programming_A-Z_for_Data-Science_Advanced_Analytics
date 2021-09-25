@@ -1,7 +1,3 @@
-1) R Programming A-Z™: R For Data Science With Real Exercises! : https://www.udemy.com/share/101Wsg/
-Learn Programming In R And R Studio. Data Analytics, Data Science, Statistical Analysis, Packages, Functions, GGPlot2
-
-
 A) DATA VISUALISATION :
 
 1)ADVANCED BOXPLOTS
@@ -29,9 +25,7 @@ A) DATA VISUALISATION :
 
 B) R ADVANCED ANAYTICS :
 
-2) R Programming: Advanced Analytics In R For Data Science : https://www.udemy.com/share/101WIQ/
-Take Your R & R Studio Skills To The Next Level. Data Analytics, Data Science, Statistical Analysis in Business, GGPlot2
-
+2) 
 
 1) BOXPLOT
 
